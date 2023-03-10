@@ -1,0 +1,1 @@
+This is the working directory acting as the home of the first session of my project
